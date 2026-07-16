@@ -1,0 +1,11 @@
+apiVersion: v1
+
+kind: ConfigMap
+
+metadata:
+   name: nginx-config
+   namespace: nginx-lab
+
+data:
+  ENTORNO: desarrollo
+  VERSION_APP: "1.0"
