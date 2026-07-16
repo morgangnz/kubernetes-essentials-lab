@@ -27,7 +27,7 @@ El objetivo es desplegar y administrar aplicaciones contenerizadas utilizando lo
 * [x] Health Checks (Readiness / Liveness Probes)
 * [x] Resource Requests y Limits
 * [x] Rolling Updates
-* [ ] Rollbacks
+* [x] Rollbacks
 * [ ] Ingress
 
 ## Arquitectura actual
